@@ -1,0 +1,31 @@
+{
+    "dateRange": {
+        "startDate": "2025-07-01",
+        "endDate": "2025-07-20"
+    },
+    "totals": {
+        "users": 1234,
+        "sessions": 1500,
+        "pageviews": 4567
+    },
+    "dailyBreakdown": [
+        {
+            "date": "2025-07-18",
+            "users": 55,
+            "sessions": 60,
+            "pageviews": 120
+        },
+        {
+            "date": "2025-07-19",
+            "users": 65,
+            "sessions": 70,
+            "pageviews": 140
+        },
+        {
+            "date": "2025-07-20",
+            "users": 70,
+            "sessions": 80,
+            "pageviews": 160
+        }
+    ]
+}
